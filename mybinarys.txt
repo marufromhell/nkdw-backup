@@ -173,3 +173,4 @@
 /home/maru/.config/wlogout/icons/wrench-hover.png
 /home/maru/.config/wlogout/icons/wrench-solid.svg
 /home/maru/.config/wlogout/icons/wrench.png
+/home/maru/.zshrc

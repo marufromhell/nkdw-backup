@@ -1,0 +1,19 @@
+system:
+   SUPPRESSLOGS: true
+   HOMEDIR: "/home/maru"
+   SystemShell: "/usr/bin/zsh"
+   nkdir: "/home/maru/prog/nknk"
+   editor: "nvim"
+prompt:
+   timer: true
+   cwd: true
+   git: true
+   fqdn: true
+   user: true
+   colon: true
+   2line: true
+   shorthome: true
+other:
+   zoxide: true
+   whiching: true
+   fullshellcomps: true
